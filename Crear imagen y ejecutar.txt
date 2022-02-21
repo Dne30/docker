@@ -1,0 +1,5 @@
+Construir imagen:
+docker build -t  my-app-java-jar:v1 .
+
+Ejecutar Proyecto con docker run:
+docker run my-java-app-jar:v1   
